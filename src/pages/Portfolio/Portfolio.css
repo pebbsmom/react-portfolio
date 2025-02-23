@@ -1,0 +1,29 @@
+ 
+.portfolio-container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .portfolio-container h2 {
+    font-size: 2rem;
+    color: black;
+    margin-bottom: 20px;
+  }
+  
+   
+  .portfolio-container .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+  }
+  
+  .portfolio-container .col-md-4 {
+    flex: 1 1 calc(33.333% - 15px);
+    max-width: calc(33.333% - 15px);
+    display: flex;
+    justify-content: center;
+  }
+  

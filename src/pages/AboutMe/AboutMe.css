@@ -1,0 +1,34 @@
+.about-me-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .about-me-container h2 {
+    font-size: 2rem;
+    color: #bb8588
+    margin-bottom: 15px;
+  }
+  
+  .profile-picture {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid #a3a380;  
+    margin-bottom: 15px;
+  }
+  
+  .about-me-container p {
+    max-width: 1000px;  
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+  }
+  .header-container {
+    width: 100%;
+  }
+  .footer-container {
+    width: 100%;
+  } 
