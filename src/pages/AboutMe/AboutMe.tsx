@@ -1,6 +1,6 @@
 import React from 'react';
 import './AboutMe.css';
-import profilePicture from '../../assets/profile.png';  
+import profilePicture from '../../../src/assets/profile.png';  
 
 const AboutMe: React.FC = () => {
   return (
